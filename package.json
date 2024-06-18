@@ -1,17 +1,13 @@
 {
   "name": "rus-store-project",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "rus-store-project"
-  },
+  "build": "webpack"
+},
   "author": "",
   "license": "ISC",
+  "description": "",
   "dependencies": {
     "jquery": "^3.7.1"
   },
