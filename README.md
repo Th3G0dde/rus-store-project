@@ -1,1 +1,0 @@
-# rus-store-project

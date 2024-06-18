@@ -1,13 +1,17 @@
 {
   "name": "rus-store-project",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
-  "scripts": {
+"scripts": {
   "build": "webpack"
-},
+  },
+  "repository": {
+    "type": "git",
+    "url": "rus-store-project"
+  },
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "jquery": "^3.7.1"
   },
